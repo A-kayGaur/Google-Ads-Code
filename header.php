@@ -1,3 +1,5 @@
+// Add This Code in header.php in head tag
+
 <?php
 if ( is_page( array( 'thank-you' ) ) ) { ?>
 
